@@ -296,10 +296,10 @@ conclusions.
 # 📷 Dashboard Preview
 
 ### Executive Overview
-![Dashboard Page 1](Food%20junction%20PBI%201.PNG)
+![Executive Overview](Food%20junction%20PBI%201.PNG)
 
 ### Branch Performance
-![Dashboard Page 2](Food%20junction%20PBI%202.PNG)
+![Branch Performance](Food%20junction%20PBI%202.PNG)
 
 
 ------------------------------------------------------------------------
