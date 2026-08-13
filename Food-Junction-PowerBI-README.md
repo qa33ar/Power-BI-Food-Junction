@@ -1,4 +1,4 @@
-# Food Junction --- Power BI Business Analysis Dashboard
+<img width="400" height="552" alt="image" src="https://github.com/user-attachments/assets/b5bdba49-deba-499f-9bf0-2902125ce108" /># Food Junction --- Power BI Business Analysis Dashboard
 
 ## 📊 Project Overview
 
@@ -295,11 +295,11 @@ conclusions.
 
 ### Executive Overview
 
-*Add screenshot here.*
+![Executive Overview](Food%20junction%20PBI%201.PNG)
 
 ### Branch Performance
 
-*Add screenshot here.*
+![Branch Performance](Food%20junction%20PBI%202.PNG)
 
 ------------------------------------------------------------------------
 
